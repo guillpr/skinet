@@ -1,0 +1,9 @@
+C:\unit\perso\angular\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\unit\perso\angular\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+C:\unit\perso\angular\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+C:\unit\perso\angular\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
