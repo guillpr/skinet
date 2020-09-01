@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lGWG8ALX6VFG8gbkfrgUSkluz32ZoDz1OhNdroLA6WBdhiJ4Ix36lFKR0JLkgiZQnsS5YO+wpxaLzVffkkHWKw==",
+  "dgSpecHash": "EFptzJt8eKEaYZ24JtACjKuzWkeFfRWT9gJdnBRVI+UeEsSmM9LG+uRHhyustHuF5kZKGqIWPdklchrkUNOTUQ==",
   "success": true,
   "projectFilePath": "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\proul\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\proul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -36,6 +38,7 @@
     "C:\\Users\\proul\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\proul\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512"
   ],
   "logs": []

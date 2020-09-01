@@ -60,3 +60,5 @@ C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Core.dll
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Core.pdb
+C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
