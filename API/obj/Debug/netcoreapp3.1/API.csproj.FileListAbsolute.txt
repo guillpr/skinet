@@ -62,3 +62,8 @@ C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\Core.pdb
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\unit\perso\angular\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
