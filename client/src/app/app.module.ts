@@ -6,7 +6,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 import { CoreModule } from './core/core.module';
 import { ShopModule } from './shop/shop.module';
-import { PaginationModule } from 'ngx-bootstrap/pagination';
+
 
 
 
@@ -21,8 +21,6 @@ import { PaginationModule } from 'ngx-bootstrap/pagination';
     HttpClientModule,
     CoreModule,
     ShopModule,
-    PaginationModule.forRoot(),
-    
   ],
   providers: [],
   bootstrap: [AppComponent]
