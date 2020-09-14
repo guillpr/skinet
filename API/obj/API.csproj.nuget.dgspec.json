@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\unit\\perso\\angular\\skinet\\api\\API.csproj": {}
+    "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\unit\\perso\\angular\\skinet\\api\\API.csproj": {
+    "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\unit\\perso\\angular\\skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\unit\\perso\\angular\\skinet\\api\\API.csproj",
+        "projectPath": "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\proul\\.nuget\\packages\\",
-        "outputPath": "C:\\unit\\perso\\angular\\skinet\\api\\obj\\",
+        "outputPath": "C:\\unit\\perso\\angular\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -202,6 +202,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.58, )"
             }
           },
           "imports": [
