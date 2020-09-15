@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nhtG75tXJT1jWgVhYDDOpZ8EJx1JBVTUhDeermB5RmGWtc4AOdhjKA5nbqLA8e4mGQiO0qhUKl5W60MMm5Hnw==",
+  "dgSpecHash": "gkQx3vmAOGoT3H4GLf26KbAwgPNheMy5i0YacvLTEJcYSeY+c2UQPb/FWHaHu+XqqjfeDo7XlTgXIoEsekqQ+A==",
   "success": true,
-  "projectFilePath": "C:\\unit\\perso\\angular\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\unit\\perso\\angular\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\proul\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\proul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
