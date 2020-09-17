@@ -77,3 +77,16 @@ C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\System.Security.Cryptog
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\unit\perso\angular\skinet\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\unit\perso\angular\skinet\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
